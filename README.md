@@ -42,7 +42,9 @@ for i in range(n):
 ```
 
 ## Output:
-![Screenshot 2024-04-16 203338](https://github.com/SarweshvaranA/Gaussian/assets/146930981/3045a3db-5940-4377-8256-d15b6cbd20cb)
+![Screenshot 2024-04-16 203637](https://github.com/SarweshvaranA/Gaussian/assets/146930981/07e95063-4bec-48df-ae3f-4d71e1905da6)
+
+![Screenshot 2024-04-16 203645](https://github.com/SarweshvaranA/Gaussian/assets/146930981/b92ddc77-a5cf-40f3-87e9-210d3a77ac96)
 
 
 ## Result:
